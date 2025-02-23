@@ -1,0 +1,55 @@
+,ID,Name,Designation,HEC Approved PHD Supervisor,Highest Education,Email,Department,Extension,ImageURL
+0,3704,Fazl-e-Basit,Assistant Professor & HoD,False,,fazl.basit@nu.edu.pk,Computing Faculty,110,images/faculty/thumb3704.jpg
+1,9237,Dr. Omar Usman Khan,Professor & Director ,True,HEC/University Approved PhD Supervisor,omar.khan@nu.edu.pk,Computing Faculty,103,images/faculty/thumb9237.jpg
+2,9315,Dr. Hafeez Ur Rehman,Associate Professor (On Leave),True,HEC/University Approved PhD Supervisor,hafeez.urrehman@nu.edu.pk,Computing Faculty,,images/faculty/thumb9315.jpg
+3,9482,Dr. Nouman Azam,Associate Professor,True,HEC/University Approved PhD Supervisor,nouman.azam@nu.edu.pk,Computing Faculty,134,images/faculty/thumb9482.jpg
+4,6833,Dr. Hafeez Anwar,Associate Professor,False,,hafeez.anwar@nu.edu.pk,Computing Faculty,,images/faculty/thumb6833.jpg
+5,3692,Shoaib Muhammad Khan,Assistant Professor,False,,shoaib.khan@nu.edu.pk,Computing Faculty,144,images/faculty/thumb3692.jpg
+6,9348,Dr. Taimoor Khan,Assistant Professor (On Leave),True,HEC/University Approved PhD Supervisor,taimoor.khan@nu.edu.pk,Computing Faculty,,images/faculty/thumb9348.jpg
+7,5436,Dr. Bilal Khan,Assistant Professor,True,HEC/University Approved PhD Supervisor,khan.bilal@nu.edu.pk,Computing Faculty,,images/faculty/thumb5436.jpg
+8,4564,Dr. Muhammad Amin,Assistant Professor,True,HEC/University Approved PhD Supervisor,muhammad.amin@nu.edu.pk,Computing Faculty,127,images/faculty/thumb4564.jpg
+9,4918,Dr. Waqas Ali,Assistant Professor,False,,waqas.ali@nu.edu.pk,Computing Faculty,107,images/faculty/thumb4918.jpg
+10,6670,Dr. Ali Sayyed,Assistant Professor,True,HEC/University Approved PhD Supervisor,ali.sayyed@nu.edu.pk,Computing Faculty,161,images/faculty/thumb6670.jpg
+11,6713,Dr. Muhammad Waqar Aziz,Assistant Professor (On Leave),True,HEC/University Approved PhD Supervisor,waqar.aziz@nu.edu.pk,Computing Faculty,,images/faculty/thumb6713.jpg
+12,6821,Dr. Qasim Jan,Assistant Professor,True,HEC/University Approved PhD Supervisor,qasim.jan@nu.edu.pk,Computing Faculty,,images/faculty/thumb6821.jpg
+13,5914,Mashal Khan,Lecturer (On Leave),False,,mashal.khan@nu.edu.pk,Computing Faculty,,images/faculty/thumb5914.jpg
+14,5913,Sara Rehmat,Lecturer,False,,sara.rehmat@nu.edu.pk,Computing Faculty,147,images/faculty/thumb5913.jpg
+15,6071,Usama Musharaf,Lecturer,False,,usama.musharaf@nu.edu.pk,Computing Faculty,145,images/faculty/thumb6071.jpg
+16,6523,Shahzeb Khan,Lecturer,False,,shahzeb.khan@nu.edu.pk,Computing Faculty,,images/faculty/thumb6523.jpg
+17,6524,Sanaa Jeehan,Lecturer,False,,sanaa.jeehan@nu.edu.pk,Computing Faculty,,images/faculty/thumb6524.jpg
+18,6525,Usman Wajid,Lecturer,False,,usman.wajid@nu.edu.pk,Computing Faculty,,images/faculty/thumb6525.jpg
+19,6564,Muhammad Umer Haroon,Lecturer,False,,umer.haroon@nu.edu.pk,Computing Faculty,,images/faculty/thumb6564.jpg
+20,6705,Haroon Zafar,Lecturer,False,,haroon.zafar@nu.edu.pk,Computing Faculty,,images/faculty/thumb6705.jpg
+21,6586,Muhammad Saad Rashad,Instructor,False,,saad.rashad@nu.edu.pk,Computing Faculty,,images/faculty/thumb6586.jpg
+22,6657,Muhammad Saood Sarwar,Instructor,False,,saood.sarwar@nu.edu.pk,Computing Faculty,,images/faculty/thumb6657.jpg
+23,6841,Iqra Rehman,Instructor,False,,iqra.rehman@nu.edu.pk,Computing Faculty,,images/faculty/thumb6841.jpg
+24,6840,Muhammad Saad Khan,Instructor,False,,saad.khan@nu.edu.pk,Computing Faculty,,images/faculty/thumb6840.jpg
+25,4457,Dr. Muhammad Usman Abbasi,Assistant Professor & HoD,False,,usman.abbasi@nu.edu.pk,EE Faculty,116,images/faculty/thumb4457.jpg
+26,3953,Muhammad Asif Khan,Assistant Professor,False,,m.asif@nu.edu.pk,EE Faculty,146,images/faculty/thumb3953.jpg
+27,4501,Rahat Ehsan,Assistant Professor,False,,rahat.ehsan@nu.edu.pk,EE Faculty,146,images/faculty/thumb4501.jpg
+28,4815,Dr. Suleman Mir,Assistant Professor,False,,suleman.mir@nu.edu.pk,EE Faculty,138,images/faculty/thumb4815.jpg
+29,4800,Dr. Maqsood Khan,Assistant Professor,False,,maqsood.khan@nu.edu.pk,EE Faculty,132,images/faculty/thumb4800.jpg
+30,4567,Waseem Ullah,Lab Engineer,False,,waseemullah@nu.edu.pk,EE Faculty,133,images/faculty/thumb4567.jpg
+31,9178,Kashif Javed,Lab Engineer,False,,kashif.javed@nu.edu.pk,EE Faculty,125,images/faculty/thumb9178.jpg
+32,9362,Anum Rashad,Lab Engineer,False,,anum.rashad@nu.edu.pk,EE Faculty,150,images/faculty/thumb9362.jpg
+33,4471,Muneeb Suhail,Lab Engineer,False,,muneeb.sohail@nu.edu.pk,EE Faculty,133,images/faculty/thumb4471.jpg
+34,5698,Dr. Askar Ali,Assistant Professor & HoD,False,,askar.ali@nu.edu.pk,Sciences & Humanities Faculty,163,images/faculty/thumb5698.jpg
+35,4377,Dr. Ihsan Ullah,Assistant Professor,False,,ihsan.ullah@nu.edu.pk,Sciences & Humanities Faculty,,images/faculty/thumb4377.jpg
+36,6522,Dr. Shams-ul Arifeen,Assistant Professor,False,,shams.arifeen@nu.edu.pk,Sciences & Humanities Faculty,,images/faculty/thumb6522.jpg
+37,5534,Osama Sohrab,Lecturer,False,,osama.sohrab@nu.edu.pk,Sciences & Humanities Faculty,155,images/faculty/thumb5534.jpg
+38,5612,Abida Farid,Lecturer (On Leave),False,,abida.farid@nu.edu.pk ,Sciences & Humanities Faculty,150,images/faculty/thumb5612.jpg
+39,6050,Noreen Shah,Lecturer,False,,noreen.shah@nu.edu.pk,Sciences & Humanities Faculty,150,images/faculty/thumb6050.jpg
+40,6460,Abdul Basit Khan,Lecturer,False,,abdulbasit.khan@nu.edu.pk,Sciences & Humanities Faculty,110,images/faculty/thumb6460.jpg
+41,4457,Dr. Muhammad Usman Abbasi,Assistant Professor & HoD,True,HEC Approved Supervisors,usman.abbasi@nu.edu.pk,HEC Approved Supervisors,116,images/faculty/thumb4457.jpg
+42,5698,Dr. Askar Ali,Assistant Professor & HoD,True,HEC Approved Supervisors,askar.ali@nu.edu.pk,HEC Approved Supervisors,163,images/faculty/thumb5698.jpg
+43,9237,Dr. Omar Usman Khan,Professor & Director ,True,HEC Approved Supervisors,omar.khan@nu.edu.pk,HEC Approved Supervisors,103,images/faculty/thumb9237.jpg
+44,9315,Dr. Hafeez Ur Rehman,Associate Professor (On Leave),True,HEC Approved Supervisors,hafeez.urrehman@nu.edu.pk,HEC Approved Supervisors,,images/faculty/thumb9315.jpg
+45,9482,Dr. Nouman Azam,Associate Professor,True,HEC Approved Supervisors,nouman.azam@nu.edu.pk,HEC Approved Supervisors,134,images/faculty/thumb9482.jpg
+46,4377,Dr. Ihsan Ullah,Assistant Professor,True,HEC Approved Supervisors,ihsan.ullah@nu.edu.pk,HEC Approved Supervisors,,images/faculty/thumb4377.jpg
+47,9348,Dr. Taimoor Khan,Assistant Professor (On Leave),True,HEC Approved Supervisors,taimoor.khan@nu.edu.pk,HEC Approved Supervisors,,images/faculty/thumb9348.jpg
+48,5436,Dr. Bilal Khan,Assistant Professor,True,HEC Approved Supervisors,khan.bilal@nu.edu.pk,HEC Approved Supervisors,,images/faculty/thumb5436.jpg
+49,4564,Dr. Muhammad Amin,Assistant Professor,True,HEC Approved Supervisors,muhammad.amin@nu.edu.pk,HEC Approved Supervisors,127,images/faculty/thumb4564.jpg
+50,6522,Dr. Shams-ul Arifeen,Assistant Professor,True,HEC Approved Supervisors,shams.arifeen@nu.edu.pk,HEC Approved Supervisors,,images/faculty/thumb6522.jpg
+51,6670,Dr. Ali Sayyed,Assistant Professor,True,HEC Approved Supervisors,ali.sayyed@nu.edu.pk,HEC Approved Supervisors,161,images/faculty/thumb6670.jpg
+52,6713,Dr. Muhammad Waqar Aziz,Assistant Professor (On Leave),True,HEC Approved Supervisors,waqar.aziz@nu.edu.pk,HEC Approved Supervisors,,images/faculty/thumb6713.jpg
+53,6821,Dr. Qasim Jan,Assistant Professor,True,HEC Approved Supervisors,qasim.jan@nu.edu.pk,HEC Approved Supervisors,,images/faculty/thumb6821.jpg

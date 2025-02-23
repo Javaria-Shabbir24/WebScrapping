@@ -1,0 +1,347 @@
+,ID,Name,Designation,HEC Approved PHD Supervisor,Highest Education,Email,Department,Extension,ImageURL
+0,4553,Waseem Shahzad,Director & Professor,True,HEC Approved Phd Supervisor,waseem.shahzad@nu.edu.pk,Computing,101,/Images/Profile/CS/4553-3.jpg
+1,4551,Hasan Mujtaba,"Head, School of Computing & Professor",True,HEC Approved Phd Supervisor,hasan.mujtaba@nu.edu.pk ,Computing,626,/Images/Profile/CS/4551.jpg
+2,4400,Hammad Majeed,HoD (Computer Science) & Professor,True,HEC Approved Phd Supervisor,hammad.majeed@nu.edu.pk,Computing,672,/Images/Profile/CS/4400.jpg
+3,5099,Muhammad Asim,HoD (Cyber Security) & Professor,True,HEC Approved Phd Supervisor,muhammad.asim@nu.edu.pk,Computing,503,/Images/Profile/CS/5099.jpg
+4,6478,Ahmad Din,HoD (Artificial Intelligence & Data Science) & Professor,True,HEC Approved Phd Supervisor,"ahmad.din@nu.edu.pk
+",Computing,506,/Images/Profile/CS/6478.jpg
+5,5200,Usman Habib,"Associate Professor / HoD (SE)
+",True,HEC Approved Phd Supervisor,usman.habib@nu.edu.pk,Computing,,/Images/Profile/CS/5200.jpg
+6,5002,Aftab Maroof,Professor,False,,aftab.maroof@nu.edu.pk,Computing,128,/Images/Profile/CS/50022020-09-30_00.03.16.jpg
+7,3629,Kashif Munir,Professor,True,HEC Approved Phd Supervisor,(On Leave),Computing,,/Images/Profile/CS/36292021-01-21_23.28.18.jpg
+8,5689,Naveed Ahmad,Professor,True,HEC Approved Phd Supervisor,naveed.ahmad@nu.edu.pk,Computing,645,/Images/Profile/CS/5689.jpg
+9,5724,Muhammad Arshad Islam,Professor,True,HEC Approved Phd Supervisor,arshad.islam@nu.edu.pk,Computing,640,/Images/Profile/CS/5724.jpg
+10,5783,Muhammad Asif Naeem,Professor,True,HEC Approved Phd Supervisor,asif.naeem@nu.edu.pk,Computing,654,/Images/Profile/CS/5783.jpg
+11,5823,Muhammad Aleem,Professor,True,HEC Approved Phd Supervisor,On leave,Computing,629,/Images/Profile/CS/5823.jpg
+12,6259,Ahmad Raza Shahid,Professor,True,HEC Approved Phd Supervisor,ahmadraza.shahid@nu.edu.pk ,Computing,634,/Images/Profile/CS/6259.jpg
+13,9214,Mirza Omer Beg,Professor,True,HEC Approved Phd Supervisor,omer.beg@nu.edu.pk,Computing,652,/Images/Profile/CS/9214.jpg
+14,6139,Akhtar Jamil,Associate Professor,True,HEC Approved Phd Supervisor,akhtar.jamil@nu.edu.pk,Computing,633,/Images/Profile/CS/6139_20211001.jpg
+15,5830,Subhan Ullah,Associate Professor,True,HEC Approved Phd Supervisor,subhan.ullah@nu.edu.pk,Computing,500,/Images/Profile/CS/5830.jpg
+16,5690,Shujaat Hussain Kausar,Associate Professor,False,,On leave,Computing,,/Images/Profile/CS/5690.jpg
+17,5586,Khubaib Amjad,Associate Professor,False,,On leave,Computing,636,/Images/Profile/CS/5586_20211001.jpg
+18,5643,Kifayat Ullah Khan,Associate Professor,True,HEC Approved Phd Supervisor,On leave,Computing,,/Images/Profile/CS/5643.jpg
+19,4708,Uzair Khan,Associate Professor,True,HEC Approved Phd Supervisor,On leave,Computing,,/Images/Profile/CS/4708.jpg
+20,5196,Irum Inayat,Associate Professor,True,HEC Approved Phd Supervisor,On leave,Computing,642,/Images/Profile/CS/5196.jpg
+21,5249,Labiba Fahad,Associate Professor,False,,labiba.fahad@nu.edu.pk,Computing,637,/Images/Profile/CS/5249.jpg
+22,6405,M. Ishtiaq,Associate Professor,True,HEC Approved Phd Supervisor,m.ishtiaq@nu.edu.pk,Computing,676,/Images/Profile/CS/6405.jpg
+23,6683,Imran Ashraf,Associate Professor,True,HEC Approved Phd Supervisor,"imran.ashraf@isb.nu.edu.pk
+",Computing,632,/Images/Profile/CS/6683.jpg
+24,6867,Danish Shehzad,Associate Professor,True,HEC Approved Phd Supervisor,"danish.shehzad@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6867.jpg
+25,7023,Zafar Iqbal Abbasi,Associate Professor,False,,"zafar.iqbal@isb.nu.edu.pk
+",Computing,511,/Images/Profile/CS/7023_2.jpg
+26,6297,Qaisar Shafi,Assistant Professor,True,HEC Approved Phd Supervisor,qaisar.shafi@nu.edu.pk ,Computing,514,/Images/Profile/CS/6297.jpg
+27,6735,Ali Zeeshan Ijaz,Assistant Professor,False,,"ali.zeeshan@isb.nu.edu.pk
+",Computing,505,/Images/Profile/CS/6735.jpg
+28,6737,Asif Muhammad,Assistant Professor,False,,asif.muhammad@isb.nu.edu.pk,Computing,321,/Images/Profile/CS/6737.jpg
+29,6776,Sana Aurangzeb,Assistant Professor,False,,"sana.aurangzeb@nu.edu.pk
+",Computing,698,/Images/Profile/CS/6776.jpg
+30,6975,Fehmida Usmani,Assistant Professor,False,,"fehmida.usmani@isb.nu.edu.pk
+",Computing,632,/Images/Profile/CS/6975.jpg
+31,6990,Muhammad Nouman Noor,Assistant Professor,False,,"nouman.noor@isb.nu.edu.pk
+",Computing,636,/Images/Profile/CS/6990.jpg
+32,6868,Sayed Qaiser Ali Shah,Assistant Professor,False,,"qaiser.ali@isb.nu.edu.pk
+",Computing,341,/Images/Profile/CS/6868.jpg
+33,6804,Usman Haider,Assistant Professor,False,,"On Leave
+",Computing,679,/Images/Profile/CS/6804.jpg
+34,6606,Isma ul Hassan,Assistant Professor,False,,isma.hassan@nu.edu.pk,Computing,699,/Images/Profile/CS/6606.jpg
+35,6609,Shahela Saif,Assistant Professor,False,,shahela.saif@nu.edu.pk,Computing,347,/Images/Profile/CS/6609.jpg
+36,6579,Ramoza Ahsan,Assistant Professor,True,HEC Approved Phd Supervisor,ramoza.ahsan@nu.edu.pk,Computing,,/Images/Profile/CS/6579.jpg
+37,6134,Uzair Iqbal,Assistant Professor,True,HEC Approved Phd Supervisor,On leave,Computing,,/Images/Profile/CS/6134.jpg
+38,5250,Amna Irum,Assistant Professor,False,,amna.irum@nuedu.pk,Computing,632,/Images/Profile/CS/5250.jpg
+39,3949,Mehreen Alam,Assistant Professor,False,,mehreen.alam@nu.edu.pk,Computing,639,/Images/Profile/CS/3949.jpg
+40,4129,Amna Basharat,Assistant Professor,False,,On Leave,Computing,638,/Images/Profile/CS/4129.jpg
+41,4381,Jawad Hassan Nisar,Assistant Professor,False,,jawad.hassan@nu.edu.pk,Computing,630,/Images/Profile/CS/4381.jpg
+42,4401,Atif Aftab Ahmed Jilani,Assistant Professor,False,,atif.jilani@nu.edu.pk,Computing,677,/Images/Profile/CS/4401.jpg
+43,4549,Noor Ul Ain,Assistant Professor,False,,noorul.ain@nu.edu.pk,Computing,656,/Images/Profile/CS/4549.jpg
+44,5201,Hassan Raza,Assistant Professor,False,,hassan.raza@nu.edu.pk,Computing,649,/Images/Profile/CS/5201.png
+45,5425,Muhammad Adnan Tariq,Assistant Professor,False,,muhammad.adnan@nu.edu.pk,Computing,678,/Images/Profile/CS/5425.jpg
+46,5470,Zeshan Khan,Assistant Professor,False,,"zeshan.khan@nu.edu.pk
+",Computing,,/Images/Profile/CS/5470.jpg
+47,5691,Uzma Mahar,Assistant Professor,False,,uzma.mahar@nu.edu.pk,Computing,643,/Images/Profile/CS/5691.JPG
+48,6032,Zainab Abaid,Assistant Professor,False,,On leave,Computing,,/Images/Profile/CS/60322021-02-08_00.56.12.png
+49,5815,Amina Asif,Assistant Professor,False,,On leave,Computing,,/Images/Profile/CS/5815.jpg
+50,5829,Muhammad Faisal Cheema,Assistant Professor,False,,faisal.cheema@nu.edu.pk,Computing,515,/Images/Profile/CS/5829.jpg
+51,6079,Behjat Zuhaira,Assistant Professor,False,,behjat.zuhaira@nu.edu.pk,Computing,650,/Images/Profile/CS/60792021-04-21_08.47.08.JPG
+52,6283,Hassan sartaj,Assistant Professor,False,,On leave,Computing,,/Images/Profile/CS/6283.jpg
+53,9387,Javaria Imtiaz,Assistant Professor,False,,javaria.imtiaz@nu.edu.pk,Computing,651,/Images/Profile/CS/9387_20211001.jpg
+54,7013,Hina Ayaz,Assistant Professor,False,,"hina.ayaz@isb.nu.edu.pk
+",Computing,642,/Images/Profile/CS/7013.jpg
+55,7022,Muhammad Mateen Yaqoob,Assistant Professor,False,,"mateen.yaqoob@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/7022.jpg
+56,7091,Muhammad Bilal,Assistant Professor,True,HEC Approved Phd Supervisor,"muhammad.bilal@isb.nu.edu.pk
+",Computing,650,/Images/Profile/CS/7091.jpg
+57,6866,Muhammad Aamir Gulzar,Lecturer,False,,"aamir.gulzar@nu.edu.pk
+",Computing,341,/Images/Profile/CS/6866.jpg
+58,9489,Shehreyar Rashid,Lecturer,False,,shehreyar.rashid@nu.edu.pk,Computing,655,/Images/Profile/CS/9489.jpg
+59,9242,Shoaib Saleem Khattak,Lecturer,False,,shoaib.saleem@nu.edu.pk,Computing,611,/Images/Profile/CS/9242.jpg
+60,6296,Marium Hida,Lecturer,False,,marium.hida@nu.edu.pk ,Computing,603,/Images/Profile/CS/6296.jpg
+61,6247,Pir Sami Ullah Shah,Lecturer,False,,samiullah.shah@nu.edu.pk,Computing,321,/Images/Profile/CS/6247.jpg
+62,6248,Mehreen Javaid,Lecturer,False,,mehreen.javaid@nu.edu.pk ,Computing,666,/Images/Profile/CS/6248.jpg
+63,6252,Hira Mastoor,Lecturer,False,,hira.mastoor@nu.edu.pk,Computing,603,/Images/Profile/CS/6252.jpg
+64,6260,Maryam Shahbaz,Lecturer,False,,maryam.shahbaz@nu.edu.pk,Computing,263,/Images/Profile/CS/6260.jpg
+65,6261,Bushra Amjad,Lecturer,False,,On leave,Computing,,/Images/Profile/CS/6261.jpg
+66,6263,Laraib Afzaal,Lecturer,False,,laraib.afzaal@nu.edu.pk,Computing,603,/Images/Profile/CS/6263.jpg
+67,6109,Hina Binte Haq,Lecturer,False,,hina.haq@nu.edu.pk ,Computing,512,/Images/Profile/CS/6109_20211001.jpg
+68,6110,Urooj Ghani,Lecturer,False,,urooj.ghani@nu.edu.pk,Computing,263,/Images/Profile/CS/6110_20211001.jpg
+69,6111,Sana Razzaq,Lecturer,False,,sana.razzaq@nu.edu.pk,Computing,347,/Images/Profile/CS/6111_20211001.jpg
+70,6143,Amina Siddique,Lecturer,False,,On Leave,Computing,342,/Images/Profile/CS/6143_20211001.jpg
+71,6229,Nimra Shahid,Lecturer,False,,On leave,Computing,268,/Images/Profile/CS/6229.jpg
+72,6243,Arslan Aslam,Lecturer,False,,arslan.aslam@nu.edu.pk ,Computing,302,/Images/Profile/CS/6243.jpg
+73,6244,Irfan Ullah,Lecturer,False,,irfan.ullah@nu.edu.pk,Computing,609,/Images/Profile/CS/6244.jpg
+74,5825,Saba Kanwal,Lecturer,False,,On Leave,Computing,347,/Images/Profile/CS/5825.jpg
+75,5793,Ameen Chilwan,Lecturer,False,,On leave,Computing,,/Images/Profile/CS/5793.jpg
+76,6067,Owais Idrees,Lecturer,False,,Owais.idrees@nu.edu.pk ,Computing,697,/Images/Profile/CS/6067.jpg
+77,5970,Maheen Arshad,Lecturer,False,,On leave,Computing,507,/Images/Profile/CS/59702020-09-03_02.13.07.jpg
+78,5976,Sara Afzal,Lecturer,False,,On leave,Computing,,/Images/Profile/CS/59762020-09-03_02.12.04.jpg
+79,5981,Ifrah Qaiser,Lecturer,False,,On leave,Computing,,/Images/Profile/CS/5981_20211001.jpg
+80,5876,Shafaq Riaz Bhatti,Lecturer,False,,shafaq.riaz@nu.edu.pk,Computing,504,/Images/Profile/CS/5876.jpg
+81,5880,Ayesha Kamran,Lecturer,False,,ayesha.kamran@nu.edu.pk,Computing,341,/Images/Profile/CS/5880.jpg
+82,5883,Parisa Salma,Lecturer,False,,On leave,Computing,343,/Images/Profile/CS/5883.JPG
+83,5692,Syed M.Saad Salman,Lecturer,False,,saad.salman@nu.edu.pk,Computing,516,/Images/Profile/CS/5692.jpg
+84,5693,Bilal Khalid Dar,Lecturer,False,,bilal.khalid@nu.edu.pk,Computing,698,/Images/Profile/CS/5693.jpg
+85,5694,Shehr Bano,Lecturer,False,,(On Leave),Computing,263,/Images/Profile/CS/5694.JPG
+86,5695,Kainat Iqbal,Lecturer,False,,kainat.Iqbal@isb.nu.edu.pk,Computing,338,/Images/Profile/CS/5695.jpg
+87,5704,Madiha Umar,Lecturer,False,,On leave,Computing,,/Images/Profile/CS/5704.jpg
+88,5723,Humera Sabir,Lecturer,False,,On leave,Computing,,/Images/Profile/CS/5723.jpg
+89,5537,Sidra Khalid,Lecturer,False,,sidra.khalid@nu.edu.pk,Computing,519,/Images/Profile/CS/5537.jpg
+90,5465,Majid Hussain,Lecturer,False,,majid.hussain@nu.edu.pk,Computing,206,/Images/Profile/CS/5465.jpg
+91,5687,Shams Farooq,Lecturer,False,,shams.farooq@nu.edu.pk,Computing,653,/Images/Profile/CS/5687.jpg
+92,6725,Aqib Rehman,Lecturer,False,,"aqib.rehman@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6725.jpg
+93,6696,Mahnoor Tariq,Lecturer,False,,"mahnoor.tariq@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6696.jpg
+94,6697,Muhammad Sohail Abbas,Lecturer,False,,sohail.abbas@isb.nu.edu.pk,Computing,,/Images/Profile/CS/6697.jpg
+95,6698,Muhammad Aadi Ur Rehman,Lecturer,False,,"aadil.rehman@isb.nu.edu.pk
+",Computing,263,/Images/Profile/CS/6698.jpg
+96,6701,Ahmad Raza,Lecturer,False,,"ahmad.raza@isb.nu.edu.pk
+",Computing,263,/Images/Profile/CS/6701.jpg
+97,6706,Farheen Tabassum,Lecturer,False,,"farheen.tabassum@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6706.jpg
+98,6707,Shahbaz Hassan,Lecturer,False,,shahbaz.hassan@isb.nu.edu.pk,Computing,513,/Images/Profile/CS/6707.jpg
+99,6610,Tajwar Mehmood,Lecturer,False,,tajwar.mehmood@nu.edu.pk,Computing,,/Images/Profile/CS/6610.jpg
+100,6613,Nirmal Tariq,Lecturer,False,,"nirmal.tariq@nu.edu.pk
+",Computing,526,/Images/Profile/CS/6613.jpg
+101,6688,Muhammad Farrukh Bashir,Lecturer,False,,farrukh.bashir@isb.nu.edu.pk,Computing,338,/Images/Profile/CS/6688.jpg
+102,6438,Adil Majeed,Lecturer,False,,adil.majeed@nu.edu.pk,Computing,518,/Images/Profile/CS/6438.jpg
+103,6451,Saira Qamar,Lecturer,False,,saira.qamar@nu.edu.pk,Computing,,/Images/Profile/CS/6451.jpg
+104,6387,Sadia Saad,Lecturer,False,,sadia.saad@nu.edu.pk,Computing,307,/Images/Profile/CS/6387.jpg
+105,6508,Zaheer ul Hussain Sani,Lecturer,False,,zaheer.sani@nu.edu.pk,Computing,,/Images/Profile/CS/6508.jpg
+106,6521,Laiba Imran,Lecturer,False,,laiba.imran@nu.edu.pk,Computing,307,/Images/Profile/CS/6521.jpg
+107,6528,Muhammad Almas Khan,Lecturer,False,,"muhammad.almas@nu.edu.pk
+",Computing,306,/Images/Profile/CS/6528.jpg
+108,6529,Mehmood ul Hassan,Lecturer,False,,mehmood.hassan@nu.edu.pk,Computing,513,/Images/Profile/CS/6529.jpg
+109,6534,Khadija Mahmood,Lecturer,False,,On Leave,Computing,307,/Images/Profile/CS/6534.jpg
+110,6823,Basharat Hussain,Lecturer,False,,"basharat.hussain@isb.nu.edu.pk
+",Computing,326,/Images/Profile/CS/6823.jpg
+111,6842,Rabail Zahid,Lecturer,False,,"rabail.zahid@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6842.jpg
+112,6869,Kanza Hamid,Lecturer,False,,"kanza.hamid@isb.nu.edu.pk
+",Computing,698,/Images/Profile/CS/6869.jpg
+113,7029,Mohsin Khan,Lecturer,False,,"mohsin.khan@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/7029.jpg
+114,7030,Junaid Ali Khan,Lecturer,False,,"junaid.ali@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/7030.jpg
+115,6801,Zonera Anjum,Lecturer,False,,"zonera.anjum@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6801.jpg
+116,6802,Nigar Azhar Butt,Lecturer,False,,"nigar.azhar@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6802.jpg
+117,7006,Usama Imtiaz,Lecturer,False,,"usama.imtaz@isb.nu.edu.pk
+",Computing,666,/Images/Profile/CS/7006.jpg
+118,7009,Umarah Qaseem,Lecturer,False,,"umarah.qaseem@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/7009.jpg
+119,7010,Anum Kaleem,Lecturer,False,,"anum.kaleem@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/7010.jpg
+120,7075,Laiba Noor,Instructor,False,,"laiba.noor@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/7075.jpg
+121,7080,Zahoor ul Hassan,Instructor,False,,"zahoor.hassan@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/7080.jpg
+122,7081,Maryam Khalid,Instructor,False,,"maryam.khalid@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/7081.jpg
+123,7083,Muhammad Talha Sharif,Instructor,False,,"talha.sharif@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/7083.jpg
+124,6993,Hamza Mahmood Sheikh,Instructor,False,,"""hamza.mahmood@isb.nu.edu.pk
+""
+",Computing,,/Images/Profile/CS/6993.jpg
+125,7004,Talha Tariq,Instructor,False,,"talha.tariq@nu.edu.pk
+",Computing,,/Images/Profile/CS/7004.jpg
+126,6795,Hajira Uzair,Instructor,False,,hajira.uzair@isb.nu.edu.pk,Computing,657,/Images/Profile/CS/6795.jpg
+127,6797,Syed Daniyal Hussain Shah,Instructor,False,,"daniyal.hussain@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6797.jpg
+128,6912,Zoya Mahboob,Instructor,False,,"zoya.mahboob@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6912.jpg
+129,6913,Noor ul Ain,Instructor,False,,"noor.ulain@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6913.jpg
+130,6916,Fahad Waheed,Instructor,False,,On Leave,Computing,,/Images/Profile/CS/6916.jpg
+131,6970,Muhammad Hamza,Instructor,False,,On Leave,Computing,,/Images/Profile/CS/6970.jpg
+132,6972,Nabeelah Maryam,Instructor,False,,"nabeelah.maryam@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6972.jpg
+133,6974,Ali Hamza,Instructor,False,,ali.hamza@isb.nu.edu.pk,Computing,,/Images/Profile/CS/6974.jpg
+134,6846,Amina Ashfaq,Instructor,False,,"Amina Ashfaq
+",Computing,,/Images/Profile/CS/6846.jpg
+135,6848,Zill-E-Huma,Instructor,False,,"zille.huma@nu.edu.pk
+",Computing,666,/Images/Profile/CS/6848.jpg
+136,6849,Asma Tufail,Instructor,False,,"asma.tufail@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6849.jpg
+137,6850,Aneeqa Khalil,Instructor,False,,"aneeqa.khalil@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6850.jpg
+138,6851,Muhammad Suleman Saboor,Instructor,False,,"suleman.saboor@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6851.jpg
+139,6853,Ghulam Fatima,Instructor,False,,"ghulam.fatima@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6853.jpg
+140,6855,Ehsaan Ali,Instructor,False,,"ehsaan.ali@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6855.jpg
+141,6856,Ayesha Marriyam,Instructor,False,,On Leave,Computing,307,/Images/Profile/CS/6856.jpg
+142,6862,Muhammad Muneeb Baig,Instructor,False,,"muneeb.baig@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6862.jpg
+143,6388,Bushra Fatima Tariq,Instructor,False,,bushra.fatima@nu.edu.pk,Computing,307,/Images/Profile/CS/6388.jpg
+144,6384,Zoya Sumbul Zaheer,Instructor,False,,zoya.sumbul@nu.edu.pk,Computing,307,/Images/Profile/CS/6384.jpg
+145,6385,Sunduss Aamir Khan,Instructor,False,,sunduss.aamir@nu.edu.pk,Computing,307,/Images/Profile/CS/6385.jpg
+146,6692,Khizra Sohail,Instructor,False,,On Leave,Computing,,/Images/Profile/CS/6692.jpg
+147,6693,Mubrra Asma,Instructor,False,,"mubrra.asma@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6693.jpg
+148,6694,Maryam Hussain,Instructor,False,,"maryam.hussain@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6694.jpg
+149,6695,Muhammad Ammar Masood,Instructor,False,,ammar.masood@isb.nu.edu.pk,Computing,,/Images/Profile/CS/6695.jpg
+150,6651,Usama Bin Imran,Instructor,False,,"usama.imran@isb.nu.edu.pk
+",Computing,307,/Images/Profile/CS/6651.jpg
+151,6654,Abdul Hammad Rasheed,Instructor,False,,hammad.rasheed@isb.nu.edu.pk,Computing,307,/Images/Profile/CS/6654.jpg
+152,6708,Palwasha Zahid,Instructor,False,,"palwasha.zahid@isb.nu.edu.pk
+",Computing,,/Images/Profile/CS/6708.jpg
+153,6245,M Naveed Khurshid,Instructor,False,,naveed.khurshid@nu.edu.pk ,Computing,306,/Images/Profile/CS/6245.jpg
+154,5677,Neelofar Niazi,Assistant Manager (Coordination),False,,neelofar.niazi@nu.edu.pk,Computing,627,/Images/Profile/CS/5677.jpg
+155,5912,Baber Shahzad,Academic Officer,False,,baber.shahzad@nu.edu.pk,Computing,525,/Images/Profile/CS/5912.jpg
+156,5922,Ayesha Yaqub Malik,Academic Officer,False,,On leave,Computing,624,/Images/Profile/CS/5922.jpg
+157,5774,Abdul Qadoos,Academic Officer,False,,abdul.qadoos@nu.edu.pk,Computing,525,/Images/Profile/FSM/57742021-04-22_14.13.10.png
+158,5582,Amir Rehman,Academic Officer,False,,amir.rehman@nu.edu.pk,Computing,623,/Images/Profile/CS/5582.jpg
+159,4154,Shakeel Ahmed Kiyani,Academic Officer,False,,shakeel.kiyani@nu.edu.pk,Computing,635,/Images/Profile/CS/4154.jpg
+160,5393,Fahad Shahzad,Academic Officer,False,,fahad.shahzad@nu.edu.pk,Computing,622,/Images/Profile/CS/5393.jpg
+161,6582,Muhammad Usman Tariq,Assistant Academic Officer,False,,"muhammadusman.tariq@nu.edu.pk
+",Computing,622,/Images/Profile/CS/6582.jpg
+162,6527,Madiha khan,Department Secretary,False,,madiha.khan@nu.edu.pk,Computing,520,/Images/Profile/CS/6527.jpg
+163,6540,Nayab Razzaq,Department Secretary,False,,nayab.razzaq@nu.edu.pk,Computing,671,/Images/Profile/CS/6540.jpg
+164,6350,Muhammad Aadil,Assistant Academic Officer,False,,m.aadil@nu.edu.pk,Computing,623,/Images/Profile/CS/6350.jpg
+165,6351,Syed Shaharyar Yousaf,Assistant Academic Officer,False,,"Shaharyar.yousaf@nu.edu.pk
+",Computing,622,/Images/Profile/CS/6351.jpg
+166,4848,Muhammad Tariq,Professor,True,HEC Approved Phd Supervisor,tariq.khan@nu.edu.pk,Electrical Engineering,356,/Images/Profile/CS/4848.jpg
+167,5004,Waseem Ikram,Professor,False,,waseem.ikram@nu.edu.pk,Electrical Engineering,101,/Images/Profile/EE/5004.jpg
+168,5522,Mukhtar Ullah,Professor,True,HEC Approved Phd Supervisor,mukhtar.ullah@nu.edu.pk,Electrical Engineering,104,/Images/Profile/EE/5522.jpg
+169,5619,Rashad Ramzan,Professor,True,HEC Approved Phd Supervisor,rashad.ramzan@nu.edu.pk,Electrical Engineering,389,/Images/Profile/EE/5619.jpg
+170,9150,Ataul Aziz Ikram,Professor,True,HEC Approved Phd Supervisor,ata.ikram@nu.edu.pk,Electrical Engineering,340,/Images/Profile/EE/9150.jpg
+171,6390,Niaz Ahmed,Associate Professor,True,HEC Approved Phd Supervisor,niaz.ahmed@nu.edu.pk,Electrical Engineering,254,/Images/Profile/EE/6390.jpg
+172,4278,Arshad Hassan Khan,Associate Professor,True,HEC Approved Phd Supervisor,arshad.hassan@nu.edu.pk,Electrical Engineering,258,/Images/Profile/EE/4278.jpg
+173,4283,Aamer Hafeez,Assistant Professor,False,,aamer.hafeez@nu.edu.pk,Electrical Engineering,108,/Images/Profile/EE/4283.jpg
+174,4340,Sana Hassan,Assistant Professor,False,,sana.hassan@nu.edu.pk,Electrical Engineering,105,/Images/Profile/EE/4340.jpg
+175,3441,Aamer Munir,Assistant Professor,False,,aamer.munir@nu.edu.pk,Electrical Engineering,189,/Images/Profile/EE/3441.jpg
+176,3625,Farhan Khalid,Assistant Professor,True,HEC Approved Phd Supervisor,farhan.khalid@nu.edu.pk,Electrical Engineering,188,/Images/Profile/EE/3625.jpg
+177,3707,Azhar Rauf,Assistant Professor,False,,azhar.rauf@nu.edu.pk,Electrical Engineering,109,/Images/Profile/EE/3707.jpg
+178,3730,Shahid Qureshi,Assistant Professor,False,,shahid.qureshi@nu.edu.pk,Electrical Engineering,185,/Images/Profile/EE/3730.jpg
+179,4141,Muhammad Saeed,Assistant Professor,False,,muhammad.saeed@nu.edu.pk,Electrical Engineering,365,/Images/Profile/EE/4141.jpg
+180,4738,Shahzad Saleem,Assistant Professor,True,HEC Approved Phd Supervisor,shahzad.saleem@nu.edu.pk,Electrical Engineering,255,/Images/Profile/EE/4738.jpg
+181,3844,Shehzad Ahmad,Assistant Professor,False,,shehzad.ahmad@nu.edu.pk,Electrical Engineering,361,/Images/Profile/EE/3844.jpg
+182,3990,M. Ibrar Khan,Assistant Professor,False,,ibrar.khan@nu.edu.pk,Electrical Engineering,185,/Images/Profile/EE/3990.jpg
+183,4518,Waqas Bin Abbas,Assistant Professor,False,,waqas.abbas@nu.edu.pk,Electrical Engineering,254,/Images/Profile/EE/4518.jpg
+184,5620,Muhammad Jafar,Assistant Professor,True,HEC Approved Phd Supervisor,muhammad.jafar@nu.edu.pk,Electrical Engineering,186,/Images/Profile/EE/5620.jpg
+185,5953,Hassan Saif,Assistant Professor,False,,hassan.saif@nu.edu.pk,Electrical Engineering,,
+186,5055,Sana Saleh,Lecturer,False,,sana.saleh@nu.edu.pk,Electrical Engineering,374,/Images/Profile/EE/5055.jpg
+187,7003,Muhammad Hammad,Lecturer,False,,muhammad.hammad@isb.nu.edu.pk,Electrical Engineering,,/Images/Profile/EE/7003.jpg
+188,9136,Moomal Bukhari,Lecturer,False,,moomal.bukhari@nu.edu.pk,Electrical Engineering,271,/Images/Profile/EE/9136.jpg
+189,9389,Maria Nasir,Lecturer,False,,maria.nasir@nu.edu.pk,Electrical Engineering,123,/Images/Profile/EE/9389.jpg
+190,4669,Fakhar Abbas,Lecturer,False,,fakhar.abbas@nu.edu.pk,Electrical Engineering,261,/Images/Profile/EE/4669.jpg
+191,5502,Ifrah Maqsood,Lab Engineer,False,,ifrah.maqsood@nu.edu.pk,Electrical Engineering,123,/Images/Profile/EE/5502.jpg
+192,5391,Soha Saqib,Assistant Manager Academics,False,,soha.saqib@nu.edu.pk,Electrical Engineering,160,/Images/Profile/EE/5391.jpg
+193,5030,Kashif Islam,Deputy Manager (EE Labs),False,,kashif.islam@nu.edu.pk,Electrical Engineering,223,/Images/Profile/EE/5030.jpg
+194,4133,M. Atif Baig,Deputy Manager (Coordination),False,,atif.baig@nu.edu.pk,Electrical Engineering,183,/Images/Profile/EE/4133.jpg
+195,4737,Ahsan Iqbal Khan,Lab Supervisor,False,,Ahsan.iqbal@nu.edu.pk,Electrical Engineering,392,/Images/Profile/EE/4737.jpg
+196,4456,Saqib Shahbaz Raja,Lab Supervisor,False,,saqib.shahbaz@nu.edu.pk,Electrical Engineering,670,/Images/Profile/EE/4456.jpg
+197,9199,Muhammad Younas,Lab Supervisor,False,,muhammad.younas@nu.edu.pk,Electrical Engineering,377,/Images/Profile/EE/9199.jpg
+198,5376,Ghulam Nabi,Lab Technician ,False,,ghulam.nabi@nu.edu.pk,Electrical Engineering,115,/Images/Profile/EE/5376.jpg
+199,4455,Rizwan Javed,Lab Assistant,False,,rizwan.javed@nu.edu.pk,Electrical Engineering,184,/Images/Profile/EE/4455.jpg
+200,5288,Uzair Uddin Farooqi,Academic Officer,False,,uzair.farooqi@nu.edu.pk,Electrical Engineering,,/Images/Profile/EE/5288.jpg
+201,3739,Muhammad Tariq,Assistant Academic Officer,False,,malik.tariq@nu.edu.pk,Electrical Engineering,324,/Images/Profile/EE/3739.jpg
+202,6376,Nimra Fatima,Lab Engineer,False,,nimra.fatima@nu.edu.pk,Electrical Engineering,123,/Images/Profile/CS/6376.jpg
+203,3813,Sadia Nadeem,Professor,True,HEC Approved Phd Supervisor,sadia.nadeem@nu.edu.pk,Management Sciences,182,/Images/Profile/FSM/3813.jpg
+204,6939,Muhammad Hanif Akhtar,Professor,False,,Hanif.Akhtar@isb.nu.edu.pk,Management Sciences,201,/Images/Profile/FSM/6939.png
+205,9488,Muhammad Abbas,Professor,True,HEC Approved Phd Supervisor,muhammad.abbas@nu.edu.pk,Management Sciences,602,/Images/Profile/FSM/9488.jpg
+206,5332,Muhammad Akhtar,Associate Professor,True,HEC Approved Phd Supervisor,muhammad.akhtar@nu.edu.pk,Management Sciences,205,/Images/Profile/FSM/5332.jpg
+207,5615,Haider Ali,Associate Professor,True,HEC Approved Phd Supervisor,haider.ali@nu.edu.pk,Management Sciences,218,/Images/Profile/FSM/5615.jpg
+208,6043,Muhammad Yasir,Assistant Professor,False,,m.yasir@nu.edu.pk,Management Sciences,,/Images/Profile/FSM/6443.jpg
+209,5333,Muhammad Bilal Saeed,Assistant Professor,True,HEC Approved Phd Supervisor,bilalsaeed@nu.edu.pk,Management Sciences,146,/Images/Profile/FSM/5333.jpg
+210,5334,Rehan Aftab,Assistant Professor,False,,rehan.aftab@nu.edu.pk,Management Sciences,212,/Images/Profile/FSM/5334.jpg
+211,5357,Muhammad Hassaan,Assistant Professor,False,,muhammad.hassaan@nu.edu.pk,Management Sciences,322,/Images/Profile/FSM/5357.jpg
+212,4398,Sarah Khan,Assistant Professor,False,,sara.khan@nu.edu.pk,Management Sciences,338,/Images/Profile/FSM/4398.jpg
+213,5197,Aftab Bhatti,Assistant Professor,False,,aftab.bhatti@nu.edu.pk,Management Sciences,269,/Images/Profile/FSM/5197.jpg
+214,5247,Danial Hasan,Assistant Professor,False,,danial.hassan@nu.edu.pk,Management Sciences,317,/Images/Profile/FSM/5247.jpg
+215,5331,Abdul Wahab,Assistant Professor,True,HEC Approved Phd Supervisor,abdulwahab@nu.edu.pk,Management Sciences,305,/Images/Profile/FSM/5331.jpg
+216,6977,Rameeza Andleeb,Assistant Professor,False,,"rameeza.andleeb@isb.nu.edu.pk
+",Management Sciences,355,/Images/Profile/FSM/6977.jpg
+217,9133,Falak Khan,Assistant Professor,True,HEC Approved Phd Supervisor,falak.khan@nu.edu.pk,Management Sciences,182,/Images/Profile/FSM/9133.jpg
+218,9151,Usman Zafar Chaudhry,Assistant Professor,False,,usman.chaudhry@nu.edu.pk,Management Sciences,203,/Images/Profile/FSM/9151.JPG
+219,9337,Hammad Majeed,Assistant Professor,False,,h.majeed@nu.edu.pk,Management Sciences,267,/Images/Profile/FSM/9337.jpg
+220,6923,Aneka Fahima Sufi,Assistant Professor,False,,"aneka.fahima@isb.nu.edu.pk
+",Management Sciences,317,/Images/Profile/FSM/6923.png
+221,9541,M. Bilal Saeed,Assistant Professor,False,,"bilal.saeed@nu.edu.pk
+",Management Sciences,219,/Images/Profile/FSM/9541.jpg
+222,7000,Muhammad Nadeem Sarwar,Assistant Professor,False,,"nadeem.sarwar@isb.nu.edu.pk
+",Management Sciences,212,/Images/Profile/FSM/7000.png
+223,5441,Amna Arsalan Farooqui,Assistant Professor,False,,amna.farooqui@nu.edu.pk,Management Sciences,355,/Images/Profile/FSM/5441.jpg
+224,7001,Faheem Ur Rehman,Lecturer,False,,"faheem.urrehman@isb.nu.edu.pk
+",Management Sciences,336,/Images/Profile/FSM/7001.png
+225,6775,Syed Muhammad Kashif Raza,Lecturer,False,,"kashif.raza@isb.nu.edu.pk
+",Management Sciences,322,/Images/Profile/FSM/6775.jpg
+226,6777,Sajjad Hussain,Lecturer,False,,"sajjad.hussain@isb.nu.edu.pk
+",Management Sciences,322,/Images/Profile/FSM/6777.jpg
+227,6805,Aamina Mukhtar Sheikh,Lecturer,False,,"aamina.sheikh@isb.nu.edu.pk
+",Management Sciences,175,/Images/Profile/FSM/6805.jpg
+228,6824,Muhammad Qaiser Shafi,Lecturer,False,,"qaiser.shafi@isb.nu.edu.pk
+",Management Sciences,203,/Images/Profile/FSM/6824.jpg
+229,6915,Sumaira Ghafoor,Lecturer,False,,"Sumaira.Ghafoor@isb.nu.edu.pk
+",Management Sciences,355,/Images/Profile/FSM/6915.png
+230,6917,Asma Masood Malik,Lecturer,False,,"Asma.Masood@isb.nu.edu.pk
+",Management Sciences,317,/Images/Profile/FSM/6917.png
+231,9381,Mansoor Mushtaq,Lecturer,False,,mansoor.mushtaq@nu.edu.pk,Management Sciences,164,/Images/Profile/FSM/9381.jpg
+232,5318,Sajjad Hanif,Lecturer,False,,sajjad.hanif@nu.edu.pk,Management Sciences,604,/Images/Profile/FSM/5318.jpg
+233,5093,Sidra Abbas,Lecturer,False,,sidra.abbas@nu.edu.pk,Management Sciences,337,/Images/Profile/FSM/5093.jpg
+234,5141,Saifullah Khan,Lecturer,False,,saifullah.khan@nu.edu.pk,Management Sciences,604,/Images/Profile/FSM/5141.jpg
+235,5792,Ayesha Yaqoob,Lecturer,False,,ayesha.yaqoob@nu.edu.pk,Management Sciences,175,/Images/Profile/FSM/5792.jpg
+236,5841,Mehmood Ur Rehman,Lecturer,False,,mehmood.rehman@nu.edu.pk,Management Sciences,161,/Images/Profile/FSM/5841.JPG
+237,6222,Anas Aziz,Instructor,False,,"anasaziz@nu.edu.pk
+",Management Sciences,604,/Images/Profile/FSM/6222.jpg
+238,6653,Hamnah Rahat,Instructor,False,,"hamnah.rahat@isb.nu.edu.pk
+",Management Sciences,337,/Images/Profile/FSM/6653.jpg
+239,6986,Mueed Ahmad,Instructor,False,,"mueed.ahmad@isb.nu.edu.pk
+",Management Sciences,,/Images/Profile/FSM/6986.png
+240,6987,Ali Hassan,Instructor,False,,"ali.hassan@isb.nu.edu.pk
+",Management Sciences,,/Images/Profile/FSM/6987.png
+241,6989,Abdul Mannan,Instructor,False,,"abdul.mannan@isb.nu.edu.pk
+",Management Sciences,319,/Images/Profile/FSM/6989.jpg
+242,6994,Adnan Feroz Rana,Instructor,False,,"adnan.feroz@isb.nu.edu.pk
+",Management Sciences,,/Images/Profile/FSM/6994.png
+243,6796,Ridda Fatima,Instructor,False,,"ridda.fatima@isb.nu.edu.pk
+",Management Sciences,206,/Images/Profile/FSM/6796.jpg
+244,6935,Syeda Hoor ul ain Ali,Instructor,False,,"syeda.hoor@isb.nu.edu.pk
+",Management Sciences,206,/Images/Profile/FSM/6935.png
+245,5405,Jabeen Akhtar,Assistant Manager Academics,False,,jabeen.akhtar@nu.edu.pk,Management Sciences,137,/Images/Profile/FSM/5405.jpg
+246,4656,Tufail Ahmad,Assistant Manager Academics,False,,tufail.ahmad@nu.edu.pk,Management Sciences,623,/Images/Profile/CS/4656.jpg
+247,3536,Muhammad Shiraz,Assistant,False,,muhammad.shiraz@nu.edu.pk,Management Sciences,270,/Images/Profile/FSM/3536.jpg
+248,3938,Khadija Farooq,Incharge (Sciences & Humanities) & Assistant Professor,False,,khadija.farooq@nu.edu.pk,Science & Humanities,383,/Images/Profile/SH/3938.jpg
+249,4218,M. Usman Ashraf,Professor,True,HEC Approved Phd Supervisor,usman.ashraf@nu.edu.pk,Science & Humanities,358,/Images/Profile/SH/42182021-01-20_01.32.39.JPG
+250,4220,Syed Irfan Shah,Professor,True,HEC Approved Phd Supervisor,irfan.shah@nu.edu.pk,Science & Humanities,353,/Images/Profile/SH/4220.jpg
+251,4385,Muhammad Tayyeb Nadeem,Professor,True,HEC Approved Phd Supervisor,tayyeb.nadeem@nu.edu.pk,Science & Humanities,339,/Images/Profile/SH/4385.jpg
+252,4219,Muhammad Ali,Associate Professor,True,HEC Approved Phd Supervisor,m.ali@nu.edu.pk,Science & Humanities,357,/Images/Profile/SH/4219.jpg
+253,5248,Hamda Khan,Associate Professor,False,,hamda.khan@nu.edu.pk,Science & Humanities,362,/Images/Profile/SH/5248.jpg
+254,9383,Memoona Rasool,Assistant Professor,False,,maimoona.rasool@nu.edu.pk,Science & Humanities,532,/Images/Profile/SH/9383.jpg
+255,4576,Khalil Ullah,Assistant Professor,False,,khalil.awan@nu.edu.pk,Science & Humanities,358,/Images/Profile/SH/4576.jpg
+256,3442,Shahzad Mahmood,Assistant Professor,False,,shahzad.mahmood@nu.edu.pk,Science & Humanities,209,/Images/Profile/SH/3442.jpg
+257,3940,Aisha Ijaz,Assistant Professor,False,,aisha.ijaz@nu.edu.pk,Science & Humanities,362,/Images/Profile/SH/3940.jpg
+258,4127,Mehwish Hassan,Assistant Professor,False,,mehwish.hassan@nu.edu.pk,Science & Humanities,363,/Images/Profile/SH/4127.jpg
+259,4214,Farah Jabeen Awan,Assistant Professor,False,,farah.awan@nu.edu.pk,Science & Humanities,105,/Images/Profile/SH/4214.jpg
+260,9529,Sumera Abbas,Lecturer,False,,sumera.abbas@nu.edu.pk,Science & Humanities,388,/Images/Profile/SH/9529.jpg
+261,5354,Sehrish Hassan Shigri,Lecturer,False,,sehrish.hassan@nu.edu.pk,Science & Humanities,257,/Images/Profile/SH/5354.jpg
+262,5898,Sana Ilyas,Lecturer,False,,sanaa.ilyas@nu.edu.pk,Science & Humanities,612,
+263,5902,Zunera Malik,Lecturer,False,,zunaira.malik@nu.edu.pk,Science & Humanities,382,
+264,6918,Tayyaba Waseem,Lecturer,False,,"tayyaba.waseem@isb.nu.edu.pk
+",Science & Humanities,369,/Images/Profile/SH/6918.jpg
+265,7007,Maria Mazhar,Lecturer,False,,"maria.mazhar@isb.nu.edu.pk
+",Science & Humanities,530,/Images/Profile/SH/7007.jpg
+266,9341,Sadia Nauman,Lecturer,False,,sadia.nauman@nu.edu.pk,Science & Humanities,532,/Images/Profile/SH/9341.jpg
